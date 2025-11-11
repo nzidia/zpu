@@ -166,6 +166,6 @@ This project is licensed under the **MIT License** — open for builders, resear
 - Website: [https://nzidia.com](https://nzidia.com)  
 - Docs: [https://nzidia.com/docs](https://nzidia.com/docs)  
 - GitHub: [https://github.com/nzidia](https://github.com/nzidia)  
-- Twitter: [@nzidia_ai](https://twitter.com/nzidia_ai)
+- Twitter: [@nzidia_ai](https://x.com/nzidiazpu)
 
 > _“ZPU is to Private AI what GPU was to Deep Learning.”_
